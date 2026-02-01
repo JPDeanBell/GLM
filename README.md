@@ -27,5 +27,5 @@ Replicated published epidemiological analysis (Table 6.3) using offset-adjusted 
 • `glm.py` - Core GLM implementation with IRLS fitting  
 • `families.py` - Distribution families (Poisson, Gaussian, Binomial)  
 • `links.py` - Link function implementations (log, identity, logit)  
-• `analysis.ipynb` - Complete case study with visualization and diagnostics  
+• `PoissonRegression.ipynb` - Complete case study with visualization and diagnostics  
 • `tests/` - Unit tests and validation against statsmodels  
